@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "Start Arcadia REPL",
+        "command": "start_arcadia_repl"
+    }
+]
